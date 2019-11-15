@@ -24,8 +24,7 @@ div {
 }
 
 .btn:hover {
-  border-color: #666;
-  color: #fff;
+  background-color: #000;
 }
 
 .btn-small {
@@ -41,8 +40,7 @@ div {
 }
 
 .btn-subtle:hover {
-  border-color: #666;
-  color: #fff;
+  background-color: #000;
 }
 
 .btn-ghost {
@@ -54,8 +52,7 @@ div {
 }
 
 .btn-ghost:hover {
-  border-color: #666;
-  color: #fff;
+  background-color: #000;
 }
 
 .btn-warning {
@@ -63,6 +60,5 @@ div {
 }
 
 .btn-warning:hover {
-  border-color: #666;
-  color: #fff;
+  background-color: #000;
 }
